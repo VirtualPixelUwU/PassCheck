@@ -1,0 +1,5 @@
+# When I'm no longer there, please edit the string below from "passed=False" to "passed=True". The capital is important. 
+# I'm sorry I had to make this, but this way, you can always visit me when I'm no longer there.
+# I hope you can find some peace knowing that I'm now in a better place.
+# I love you all, thank you so much for everything.
+passed=False
