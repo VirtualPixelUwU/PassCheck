@@ -1,6 +1,6 @@
 # When I'm no longer there, please edit the string below from "passed=False" to "passed=True". The capital is important. 
 # Also don't forget to change the passdate to something like "April 10th 2025" or something like that
-# I'm sorry I had to make this, but this way, you can always visit me when I'm no longer there.
+# I'm sorry I had to make this, but this way, you can always visit me in my Paw Park world when I'm no longer there.
 # I love you all, thank you so much for everything, and thank you for making my life so much better.
 passed=True
 passdate="???"
